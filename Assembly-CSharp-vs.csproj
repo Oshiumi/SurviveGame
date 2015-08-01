@@ -51,8 +51,7 @@
      <Compile Include="Assets\Source\Battle\Attack.cs" />
      <Compile Include="Assets\Source\Battle\Cube.cs" />
      <Compile Include="Assets\Source\Battle\Cube_manager.cs" />
-     <Compile Include="Assets\Source\Battle\Enemy\Goburin\Goburin.cs" />
-     <Compile Include="Assets\Source\Battle\Enemy\King\Enemy.cs" />
+     <Compile Include="Assets\Source\Battle\Enemy\Enemy.cs" />
      <Compile Include="Assets\Source\Battle\Enemy1.cs" />
      <Compile Include="Assets\Source\Battle\Main.cs" />
      <Compile Include="Assets\Source\Battle\PingPongMove.cs" />
